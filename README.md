@@ -2,7 +2,6 @@
 This project is a Python-based ETL (Extract, Transform, Load) application that retrieves data from an IMDb user list and generates new movie synopses using the OpenAI API. The generated synopses blend elements from existing synopses to create captivating and unique summaries for movies.
 **Special Thanks:** This project is made possible thanks to the individual who created and shared the original IMDb user list titled "Kim Newman's Nightmare Movies," which is based on the book by Kim Newman. We also extend our gratitude to Kim Newman for his great work. You can find the original list [here](https://www.imdb.com/list/ls070229682/).
 
-
 # Directory Structure
 The project directory is structured as follows:
 ```bash
