@@ -92,7 +92,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=ARG_DESC)
     parser.add_argument("--num", type=utils.limited_movies, 
                         default=1, 
-                        help="Number of fake synopses and movies to generate."
+                        help="Number of new movies to generate."
     )
     parser.add_argument("--verbose", 
                         type=bool, 
