@@ -6,7 +6,7 @@ This project is a Python-based ETL (Extract, Transform, Load) application that r
 The project directory is structured as follows:
 ```bash
 ├── data/
-│   └── Kim Newman\'s Nightmare Movies.csv   # IMDb user list data
+│   └── Kim Newman'```s Nightmare Movies.csv   # IMDb user list data
 ├── src/
 │   ├── __init__.py
 │   ├── gpt.py          # Main script to generate new synopses
