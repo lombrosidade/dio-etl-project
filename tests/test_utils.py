@@ -17,7 +17,6 @@ df = pd.read_csv(df_path)
 def test_get_random_movie_id():
     movie_id = get_random_movie_id(df)
     assert isinstance(movie_id, str)
-    assert movie_id in 
 
 def test_get_synopsis():
     movie_id = get_random_movie_id(df)
